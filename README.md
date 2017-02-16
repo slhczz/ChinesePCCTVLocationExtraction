@@ -38,6 +38,10 @@
 
 >ps:formats in PCC.
 
+>and it look like this:
+
+![output file](https://github.com/scofield7419/ChinesePCCTVLocationExtraction/blob/master/screenshot/12.png)
+
 ***
 ```
 Scofield.Phil
