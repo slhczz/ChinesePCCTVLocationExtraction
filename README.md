@@ -7,9 +7,11 @@
 ####Description
 >Complete Chinese location infos in the format of province_city_county_town_village.
 
-##Cautions:
+##Cautions of the methods calling order:
 >###For the first use of this program, you have to run "readAllProv();" method first under the annotated method "getAllMaps();" in order to get all the property files.Then, annotate this method and call method "getAllMaps();".
 
+>just like this:
+![method calling order](https://github.com/scofield7419/ChinesePCCTVLocationExtraction/blob/master/screenshot/11.png)
 
 ####The roadmap is constructed in accordance with the following four guidelines:
 
@@ -22,6 +24,8 @@
 ####here is the outputs folder:
 >outputs/province_city_county_town_village.txt
 
+>and the output file was writed like this:
+![output file](https://github.com/scofield7419/ChinesePCCTVLocationExtraction/blob/master/screenshot/12.png)
 ***
 ####other file in assets:
 >assets/2015年全国城市省市县区行政级别对照表.xls
