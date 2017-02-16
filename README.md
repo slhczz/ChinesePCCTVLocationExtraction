@@ -40,7 +40,7 @@
 
 >and it look like this:
 
-![output file](https://github.com/scofield7419/ChinesePCCTVLocationExtraction/blob/master/screenshot/12.png)
+![other file](https://github.com/scofield7419/ChinesePCCTVLocationExtraction/blob/master/screenshot/22.png)
 
 ***
 ```
